@@ -10,8 +10,8 @@ Population density is one of the most important indicators for measuring urban p
 
 - data
     * beijing_building_v1.csv, building dataset
-    * beijing_homework_density, population denisty dataset
-    * beijing_popu_building, population and building by grid cell
+    * beijing_homework_density.csv, population denisty dataset
+    * beijing_popu_building.csv, population and building by grid cell
     
 - densityscaling_replicate.R
     * R code for all results presented in the paper
