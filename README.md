@@ -8,8 +8,8 @@ Understanding quantitative relationships between urban elements is crucial for a
 ### Replicate data and code
 
 - data
-    
-- densityscaling_replicate.R
+    * 2km grid cell level data for ten cities
+- scaling_replication.R
     * R code for all results presented in the paper
     
     
